@@ -17,4 +17,4 @@ This project focuses on analyzing the sales data of a fictional retail store (Su
 - **Seasonality:** Sales trends show a consistent peak in Q4 (November and December) every year due to holiday shopping.
 
 ## 🔗 Live Interactive Dashboard
-[👉 Click here to view the interactive dashboard on Tableau Public](Chèn_link_Tableau_Public_của_bạn_vào_đây)
+[👉 Click here to view the interactive dashboard on Tableau Public](https://public.tableau.com/views/Superstone_Analysis/BusinessPerformanceDB?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
