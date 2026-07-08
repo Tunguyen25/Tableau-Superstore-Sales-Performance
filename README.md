@@ -9,7 +9,7 @@ This project focuses on analyzing the sales data of a fictional retail store (Su
 - **Concepts Applied:** Data Relationships, Aggregated Calculations (Profit Margin), Interactive Dashboard Actions.
 
 ## 🖼️ Dashboard Preview
-![Dashboard Screenshot](tên_file_ảnh_dashboard_của_bạn.jpg)
+![Dashboard Screenshot](Superstone_Dashboard_Screenshot.png)
 
 ## 💡 Key Insights & Findings
 - **High Sales, Low Profit:** The 'Tables' sub-category generates high revenue but suffers from severe losses (negative profit margin).
